@@ -5,6 +5,7 @@ DATASET:
 [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_1)
 
 OUTPUT Images:
+                                                      
                                                           Orignal Image:
 
 
